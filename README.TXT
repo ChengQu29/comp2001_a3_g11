@@ -21,8 +21,8 @@ HOW TO START THIS PROJECT:
 AUTHORS: Luke Penney, Chengwen Qu
 USER INSTRUCTIONS:
 
-Contribution: Luke Penney 10
+Contribution: Luke Penney 15
 -created test plan
 
-Contribution: Chengwen Qu 10
+Contribution: Chengwen Qu 15
 -implemented test plan
